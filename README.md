@@ -10,10 +10,10 @@
 #### 📬 Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagatay-kazim-yesilyurt/)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https:)
+<!--[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https:)-->
 
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/kazimefendi/badges/small)
+<!--![My Codewarrior Profile Badge](https://www.codewars.com/users/kazimefendi/badges/small)-->
 </br>
 </br>
 </br>
@@ -105,11 +105,11 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=szrokmn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=kazimefendi&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=szrokmn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimefendi&theme=blue-green"
      alt=""
      /> <br/>
 </div>
