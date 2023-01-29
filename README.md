@@ -1,21 +1,19 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm Sezer
+## 👷🏻‍♀️👋🏻 Hi there, I'm Kazim
 
-<font color="pink"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
+
+<font color="pink"> 🔭 I’m currently working on frontend and backend web development </font>
 </br>
-<font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
-</br>
-<font color="pink"> 🧐 A new age enthusiast. </font>
-</br>
-<font color="pink">☕ Coffee is how I keep up with code</font>
+
 
 #### 📬 Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezer-%C3%B6kmen-971a21236/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:szrokmn34@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@szrokmn34)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagatay-kazim-yesilyurt/)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https:)
 
+
+![My Codewarrior Profile Badge](https://www.codewars.com/users/kazimefendi/badges/small)
 </br>
 </br>
 </br>
@@ -97,7 +95,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
+[tas-kagit-makas](kazimefendi.github.io/tas-kagit-makas/) <h3>[Repo](https://github.com/kazimefendi/tas-kagit-makas)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/118995837/215345773-7c3ea762-671b-474e-99d4-c9b81f6f5bc3.png)
 
 
 
